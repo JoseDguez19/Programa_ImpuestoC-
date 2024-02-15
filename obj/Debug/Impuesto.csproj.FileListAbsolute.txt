@@ -1,0 +1,7 @@
+C:\Users\ap550\source\repos\Impuesto\bin\Debug\Impuesto.exe.config
+C:\Users\ap550\source\repos\Impuesto\bin\Debug\Impuesto.exe
+C:\Users\ap550\source\repos\Impuesto\bin\Debug\Impuesto.pdb
+C:\Users\ap550\source\repos\Impuesto\obj\Debug\Impuesto.csproj.AssemblyReference.cache
+C:\Users\ap550\source\repos\Impuesto\obj\Debug\Impuesto.csproj.CoreCompileInputs.cache
+C:\Users\ap550\source\repos\Impuesto\obj\Debug\Impuesto.exe
+C:\Users\ap550\source\repos\Impuesto\obj\Debug\Impuesto.pdb
